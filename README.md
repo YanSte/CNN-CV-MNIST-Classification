@@ -1,8 +1,8 @@
 # Classification of MNIST Dataset Using Convolutional Neural Networks (CNN)
 
-This notebook entails a classification task that utilizes Convolutional Neural Networks (CNNs) on the renowned MNIST dataset.
+This notebook delves into a classification task involving the use of Convolutional Neural Networks (CNNs) on the famous MNIST dataset, available at [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/).
 
-This notebook is divided into two main sections:
+We have structured the notebook into two main sections:
 
 ## Objectives
 This section delineates the specific goals of this notebook, which are:
