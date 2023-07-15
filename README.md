@@ -1,26 +1,23 @@
-# [CNN]-[MNIST] - Classification with Convolutional Neural Networks
+# Classification of MNIST Dataset Using Convolutional Neural Networks (CNN)
 
-This Kaggle notebook provides a step-by-step implementation of a simple classification task using convolutional neural networks (CNNs) on the popular MNIST dataset.
+This notebook entails a classification task that utilizes Convolutional Neural Networks (CNNs) on the renowned MNIST dataset.
 
-MNIST is one of the most historic dataset.  
-- Include in [Keras datasets](https://www.tensorflow.org/api_docs/python/tf/keras/datasets)
-
-The notebook is organized into three distinct sections:
+This notebook is divided into two main sections:
 
 ## Objectives
-In this section, the specific objectives of the notebook are outlined. The main goals include:
+This section delineates the specific goals of this notebook, which are:
 
-- Training a DNN model to accurately recognize handwritten numbers.
-
+- Training a Deep Neural Network (DNN) model to achieve high accuracy in recognizing handwritten digits.
 
 ## Implementation
-This section focuses on the practical implementation steps involved in achieving the objectives mentioned earlier. The implementation steps include:
+This section presents the hands-on steps necessary to attain the previously mentioned objectives. These steps include:
 
-1. Data Retrieval: Obtaining the MNIST dataset for training and testing.
-2. Data Preparation: Preprocessing and preparing the dataset for training the CNN model.
-3. Model Creation: Designing and building the CNN model using Keras.
-4. Model Training: Training the CNN model using the prepared dataset.
-5. Evaluation: Assessing the performance of the trained model and evaluating the classification results.
+1. **Imports, Constants, and Methods:** Setting up the necessary libraries, constants, and methods for our task.
+2. **Data Retrieval:** Acquiring the MNIST dataset to be used for training and testing purposes.
+3. **Data Preparation:** Preprocessing and setting up the dataset to facilitate effective training of the CNN model.
+4. **Model Creation:** Architecting and constructing the CNN model utilizing Keras.
+5. **Model Training:** Engaging the CNN model in learning using the prepared dataset.
+6. **Evaluation:** Gauging the trained model's performance and analyzing the classification results.
 
 ![CNN](cnn.png)
 
