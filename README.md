@@ -1,4 +1,4 @@
-# [CNN]-[MNIST] - Simple Classification with Convolutional Neural Networks
+# [CNN]-[MNIST] - Classification with Convolutional Neural Networks
 
 This Kaggle notebook provides a step-by-step implementation of a simple classification task using convolutional neural networks (CNNs) on the popular MNIST dataset.
 
