@@ -22,6 +22,8 @@ This section focuses on the practical implementation steps involved in achieving
 4. Model Training: Training the CNN model using the prepared dataset.
 5. Evaluation: Assessing the performance of the trained model and evaluating the classification results.
 
+![CNN](cnn.png)
+
 # Project:
 
 - [Github](https://github.com/YanSteph/CNN-MNIST-Simple-Classification-with-Convolutional-Neural-Networks/blob/main/cnn-mnist-simple-classification-with-cnn.ipynb)
