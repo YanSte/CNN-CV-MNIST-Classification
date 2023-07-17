@@ -1,5 +1,7 @@
 # Classification of MNIST Dataset Using Convolutional Neural Networks (CNN)
 
+[Kaggle](https://www.kaggle.com/code/yannicksteph/cnn-mnist-classification-with-cnn)
+
 This notebook delves into a classification task involving the use of Convolutional Neural Networks (CNNs) on the famous MNIST dataset, available at [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/).
 
 We have structured the notebook into two main sections:
