@@ -1,5 +1,7 @@
-# | CNN | CV | MNIST | Classification
+# | CNN | MNIST | Classification |
 ## Convolutional Neural Networks (CNN) with Computer Vision (CV) for MNIST Handwriting Classification
+
+# <b>Introduction</b>
 
 This notebook delves into a classification task involving the use of Convolutional Neural Networks (CNNs) on the famous MNIST dataset, available at [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/).
 
